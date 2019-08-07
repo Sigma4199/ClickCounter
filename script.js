@@ -1,11 +1,12 @@
 $(function() {
   $("#counter").fadeOut(0);
   $("#reset").fadeOut(0);
- 
+  $("#title").fadeOut(0);
 
   setTimeout(function(){
     $("#counter").fadeIn();
     $("#reset").fadeIn();
+    $("#title").fadeIn();
   }, 2000);
   
   
