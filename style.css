@@ -2,6 +2,11 @@ body {
   background: #FFFFFF;
 }
 
+#title {
+  font-family: Roboto Thin;
+  text-align: center;
+}
+
 #counter {
   display: inline-block;
   padding: 10px;
